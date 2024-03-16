@@ -42,4 +42,23 @@ cd your-repository
 
 
 
-[License information]
+## Instructions on How to Run It
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Akash-Ahmed-CSE/AutomationPractice.git
+    cd AutomationPractice
+    ```
+
+2. Ensure you have all the necessary dependencies installed, including Java, TestNG, and any other libraries required for the project.
+
+3. Open the project in the ide and run the following files under "webtests" folder or run the test suite present in the AutomationPractice\src\test\java\ExtentReportListener\testng.xml file.
+### Test Suite in testng.xml file
+![](image_for_readme/img1.png)
+### Run Individual Test
+![](image_for_readme/img2.png)
+
+5. After running the tests, you can find the HTML report in the `test-output` directory.
+
+6. Additionally, you can run individual test files by executing specific test classes or methods using your preferred IDE or TestNG commands.
+
