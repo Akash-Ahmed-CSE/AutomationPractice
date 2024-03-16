@@ -1,0 +1,20 @@
+{
+  "Student_Registration_Form": [
+    {
+	"firstName": "Akash",
+      "lastName": "Ahmed",
+      "email": "akash@gmail.com",
+      "MobileNumber": "09989877661",
+      "subject":"Science",
+      "getCurrentAddress": "Savar,Dhaka,Bangladesh"
+    },
+    {
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "email": "akash@gmail.com",
+      "MobileNumber": "09989877661",
+      "subject":"Science",
+      "getCurrentAddress": "Savar,Dhaka,Bangladesh"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE CRM Application Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="ExtentReportListener.ExtentReportListener" />
+    </listeners>
+
+    <test name="Free CRM App Test Cases">
+        <classes>
+            <class name="webtests.AutomationPracticeFormTest_NormalFormFillup"></class>
+            <class name="webtests.AutomationPracticeFormTest_DataReadFromCSV"></class>
+            <class name="webtests.AutomationPracticeFormTest_CheckFailureScreenshort"></class>
+            <class name="webtests.AutomationPracticeFormTest_WithNullValue"></class>
+        </classes>
+    </test>
+</suite>
