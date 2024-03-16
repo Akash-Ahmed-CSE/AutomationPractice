@@ -62,3 +62,7 @@ cd your-repository
 
 6. Additionally, you can run individual test files by executing specific test classes or methods using your preferred IDE or TestNG commands.
 
+
+
+https://github.com/Akash-Ahmed-CSE/AutomationPractice/assets/57281241/4e5567f1-8c9a-4fab-9422-89d7f4eeb159
+
